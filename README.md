@@ -1,2 +1,5 @@
 # REFITT
-For demo only (working draft (android only))
+For demo only 
+Working draft (android)
+
+for last resort nyo nalang :)
